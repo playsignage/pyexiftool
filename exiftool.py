@@ -55,6 +55,7 @@ Example usage::
 
 from __future__ import unicode_literals
 
+import select
 import sys
 import subprocess
 import os
